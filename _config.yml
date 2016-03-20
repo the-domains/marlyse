@@ -23,6 +23,6 @@ color:
     - '#bedbbd'
   brandStrength: 0.5
   lightness: 0.75
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
