@@ -1,7 +1,7 @@
 name: marlyse
 favicon: null
 layout_spectrum: 0.9915264095179737
-typography_spectrum: 0.2591428216546774
+typography_spectrum: 0.25094
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5672484808601439
-  lightness: 0.507360155461356
-  saturation: 0.761956617468968
-  rhythmicContrast: 0.055383231956511736
+    - '#333333'
+    - '#5d828b'
+    - '#6a638c'
+    - '#878656'
+    - '#476766'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
